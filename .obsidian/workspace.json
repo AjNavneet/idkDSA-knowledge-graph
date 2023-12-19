@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "63f80f60e9b1bf6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c38f0b5a0cd0166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88566deec69223b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "array/_Index_of_array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bf89a5408fb0257",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04010900e9f4777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff42a9469bccfa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6e09d0d5af54702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8dfa04d0ef51056",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d5b4add6aaa6de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e5f03157819638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5da3f992e98c220",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "array/_Index_of_array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20e67edddd07bbcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "array/_Index_of_array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62d7de1a2a8f1bb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25e784172a475eba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "array/_Index_of_array.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "88566deec69223b6",
+  "lastOpenFiles": [
+    "readme.md",
+    "_Index_of_idkDSA-knowledge-graph.md",
+    "array/Untitled.md",
+    "array/_Index_of_array.md",
+    "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
+    "leet-problem-img/002. Add Two Numbers.png",
+    "leet-problem-img/001. Two Sum.png",
+    "leet-problem-img/999. Available Captures for Rook.png",
+    "leet-problem-img/998. Maximum Binary Tree II.png",
+    "leet-problem-img/997. Find the Town Judge.png",
+    "leet-problem-img/996. Number of Squareful Arrays.png",
+    "leet-problem-img/995. Minimum Number of K Consecutive Bit Flips.png",
+    "leet-problem-img/994. Rotting Oranges.png",
+    "leet-problem-img/993. Cousins in Binary Tree.png",
+    "leet-problem-img",
+    "problem-screenshots",
+    "tree/_Index_of_tree.md",
+    "Index_of_idkDSA-knowledge-graph.md",
+    "idkDSA-knowledge-graph.md",
+    "array/Index_of_array.md",
+    "tree/Untitled.md",
+    "tree/tree.md",
+    "string/_Index_of_string.md",
+    "linkedlist/_Index_of_linkedlist.md",
+    "graph/_Index_of_graph.md",
+    "hash/_Index_of_hash.md",
+    "matrix/_Index_of_matrix.md",
+    "queuestack/_Index_of_queuestack.md",
+    "math/_Index_of_math.md",
+    "puzzle/_Index_of_puzzle.md",
+    "string/Untitled.md",
+    "queuestack/Untitled.md",
+    "puzzle/Untitled.md",
+    "matrix/Untitled.md",
+    "math/Untitled.md",
+    "linkedlist/Untitled.md",
+    "hash/Untitled.md",
+    "graph/Untitled.md",
+    "puzzle",
+    "math",
+    "queuestack",
+    "matrix",
+    "hash",
+    "graph",
+    "tree",
+    "linkedlist"
+  ]
+}
