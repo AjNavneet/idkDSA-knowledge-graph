@@ -11,40 +11,23 @@
             "id": "661f022575d45a83",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "58e985d4c8e6f089",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "08324ad2d55401b6",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
             "id": "861ba0658a202b86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md"
               }
             }
           },
@@ -192,10 +175,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "861ba0658a202b86",
+  "active": "661f022575d45a83",
   "lastOpenFiles": [
-    "puzzle/1025. Divisor Game.md",
+    "array/bfs-merged.md",
+    "array/bfs/1654. Minimum Jumps to Reach Home.md",
+    "array/bfs/778. Swim in Rising Water.md",
+    "array/bfs/675. Cut Off Trees for Golf Event.md",
+    "array/bfs/417. Pacific Atlantic Water Flow.md",
+    "array/bfs/_Index_of_bfs.md",
+    "array/dynamic_programming/416. Partition Equal Subset Sum.md",
     "readme.md",
+    "puzzle/1025. Divisor Game.md",
     "_Index_of_idkDSA-knowledge-graph.md",
     "matrix/other/407. Trapping Rain Water II.md",
     "matrix/other/073. Set Matrix Zeroes.md",
@@ -216,14 +206,7 @@
     "matrix/dynamic_programming/1277. Count Square Submatrices with All Ones.md",
     "matrix/dfs",
     "matrix/dynamic_programming/935. Knight Dialer.md",
-    "matrix/dynamic_programming/221. Maximal Square.md",
-    "matrix/dynamic_programming/_Index_of_dynamic_programming.md",
-    "matrix/binary_search/304. Range Sum Query 2D - Immutable.md",
     "matrix/dynamic_programming",
-    "matrix/binary_search/363. Max Sum of Rectangle No Larger Than K.md",
-    "matrix/binary_search/240. Search a 2D Matrix II.md",
-    "matrix/array/Untitled.md",
-    "matrix/binary_search/_Index_of_binary_search.md",
     "matrix/binary_search",
     "matrix/array",
     "matrix/simple",
