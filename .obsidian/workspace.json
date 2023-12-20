@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "queuestack/_Index_of_queuestack.md",
-                "mode": "preview",
+                "file": "readme.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "queuestack/_Index_of_queuestack.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "queuestack/_Index_of_queuestack.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "queuestack/_Index_of_queuestack.md"
+                "file": "readme.md"
               }
             }
           },
@@ -169,6 +169,11 @@
   },
   "active": "661f022575d45a83",
   "lastOpenFiles": [
+    "hash/706. Design HashMap.md",
+    "hash/705. Design HashSet.md",
+    "hash/381. Insert Delete GetRandom O(1) - Duplicates allowed.md",
+    "hash/380. Insert Delete GetRandom O(1).md",
+    "queuestack/_Index_of_queuestack.md",
     "_Index_of_idkDSA-knowledge-graph.md",
     "readme.md",
     "array/backtracking/037. Sudoku Solver.md",
@@ -195,12 +200,7 @@
     "array/simple",
     "array/specific_algos/075. Sort Colors.md",
     "array/specific_algos/169. Majority Element.md",
-    "array/specific_algos/284. Peeking Iterator.md",
-    "array/specific_algos/053. Maximum Subarray.md",
-    "array/specific_algos/_Index_of_specific_algos.md",
-    "array/dfs/749. Contain Virus.md",
     "array/specific_algos",
-    "array/Untitled 1.md",
     "array/dfs",
     "array/bfs",
     "array/stack",

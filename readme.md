@@ -8,7 +8,7 @@
 	3. Linked List -> Ongoing
 	4. Tree -> Ongoing
 	5. Graph -> Ongoing
-	6. Hash -> Ongoing
+	6. Hash -> Done
 	7. Matrix -> Ongoing
 	8. Queue Stack -> Done
 	9. Math -> Ongoing
