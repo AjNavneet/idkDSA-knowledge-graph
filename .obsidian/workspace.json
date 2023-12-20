@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88566deec69223b6",
+            "id": "661f022575d45a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
+                "file": "queuestack/_Index_of_queuestack.md",
                 "mode": "preview",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6f37b986d4706246",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
+                "file": "queuestack/_Index_of_queuestack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
+                "file": "queuestack/_Index_of_queuestack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +133,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md"
+                "file": "queuestack/_Index_of_queuestack.md"
               }
             }
+          },
+          {
+            "id": "ab6f38d11f7832a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,17 +162,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "3d-graph:3D Graph": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "88566deec69223b6",
+  "active": "661f022575d45a83",
   "lastOpenFiles": [
+    "_Index_of_idkDSA-knowledge-graph.md",
+    "readme.md",
+    "array/backtracking/037. Sudoku Solver.md",
+    "array/backtracking/039. Combination Sum.md",
     "array/backtracking/_Index_of_backtracking.md",
+    "leet-edi-img/1. Two Sum.png",
+    "array/backtracking/040. Combination Sum II.md",
+    "Spaces/Home",
+    "Spaces",
+    "queuestack/901. Online Stock Span.md",
+    "queuestack/895. Maximum Frequency Stack.md",
+    "queuestack/341. Flatten Nested List Iterator.md",
+    "queuestack/225. Implement Stack using Queues.md",
+    "queuestack/155. Min Stack.md",
+    "queuestack/232. Implement Queue using Stacks.md",
     "array/backtracking/254. Factor Combinations.md",
     "array/backtracking/698. Partition to K Equal Sum Subsets.md",
-    "array/backtracking/037. Sudoku Solver.md",
-    "readme.md",
-    "_Index_of_idkDSA-knowledge-graph.md",
     "Untitled.canvas",
     "array/_Index_of_array.md",
     "array/simple/057. Insert Interval.md",
@@ -171,22 +201,12 @@
     "array/dfs/749. Contain Virus.md",
     "array/specific_algos",
     "array/Untitled 1.md",
-    "array/dfs/679. 24 Game.md",
-    "array/dfs/546. Remove Boxes.md",
-    "array/dfs/472. Concatenated Words.md",
-    "array/dfs/130. Surrounded Regions.md",
-    "array/dfs/079. Word Search.md",
-    "array/dfs/078. Subsets.md",
-    "array/dfs/_Index_of_dfs.md",
-    "array/bfs/675. Cut Off Trees for Golf Event.md",
     "array/dfs",
     "array/bfs",
     "array/stack",
     "array/queue",
     "array/prefix_sum",
     "array/binary_index_tree",
-    "array/sorting",
-    "array/dynamic_programming",
     "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
     "leet-problem-img/002. Add Two Numbers.png",
     "leet-problem-img/001. Two Sum.png",
@@ -195,7 +215,6 @@
     "leet-problem-img/997. Find the Town Judge.png",
     "leet-problem-img/996. Number of Squareful Arrays.png",
     "leet-problem-img/995. Minimum Number of K Consecutive Bit Flips.png",
-    "leet-problem-img/994. Rotting Oranges.png",
-    "leet-problem-img/993. Cousins in Binary Tree.png"
+    "leet-problem-img/994. Rotting Oranges.png"
   ]
 }

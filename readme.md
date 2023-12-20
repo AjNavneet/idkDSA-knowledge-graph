@@ -1,8 +1,18 @@
 ## Leetcode Obsidian Notes
 
 1. Clone repo then open in Obsidian app.
-	1. Note: Vault size is 7.5+ gigabytes.
-2. Linking Status: Ongoing
+	- Note: Vault size is 7.5+ gigabytes.
+2. **Linking Status**: 
+	1. Array -> Done
+	2. String -> Ongoing
+	3. Linked List -> Ongoing
+	4. Tree -> Ongoing
+	5. Graph -> Ongoing
+	6. Hash -> Ongoing
+	7. Matrix -> Ongoing
+	8. Queue Stack -> Done
+	9. Math -> Ongoing
+	10. Puzzle -> Ongoing
 
 ---
 
@@ -10,7 +20,7 @@
 
 - Notes linking Status ->  Done
 
-|      |                                                                                                                                                                                    |       |                        |
+|  #    |       Question Title                                                                                                                                                                             |   DS    | Approach                       |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------- |
 | 163  | [Missing Ranges - LeetCode](https://leetcode.com/problems/missing-ranges)                                                                                                          | Array |                        |
 | 57   | [Insert Interval - LeetCode](https://leetcode.com/problems/insert-interval/)                                                                                                       | Array |                        |
