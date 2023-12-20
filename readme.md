@@ -9,7 +9,7 @@
 	4. Tree -> Ongoing
 	5. Graph -> Ongoing
 	6. Hash -> Done
-	7. Matrix -> Ongoing
+	7. Matrix -> Done
 	8. Queue Stack -> Done
 	9. Math -> Ongoing
 	10. Puzzle -> Ongoing

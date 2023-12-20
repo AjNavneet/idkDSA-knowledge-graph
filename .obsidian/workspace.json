@@ -11,15 +11,28 @@
             "id": "661f022575d45a83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e985d4c8e6f089",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "08324ad2d55401b6",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,56 +166,56 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "3d-graph:3D Graph": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "3d-graph:3D Graph": false,
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "661f022575d45a83",
+  "active": "08324ad2d55401b6",
   "lastOpenFiles": [
-    "hash/706. Design HashMap.md",
-    "hash/705. Design HashSet.md",
-    "hash/381. Insert Delete GetRandom O(1) - Duplicates allowed.md",
-    "hash/380. Insert Delete GetRandom O(1).md",
-    "queuestack/_Index_of_queuestack.md",
-    "_Index_of_idkDSA-knowledge-graph.md",
     "readme.md",
-    "array/backtracking/037. Sudoku Solver.md",
-    "array/backtracking/039. Combination Sum.md",
-    "array/backtracking/_Index_of_backtracking.md",
+    "_Index_of_idkDSA-knowledge-graph.md",
+    "matrix/other/407. Trapping Rain Water II.md",
+    "matrix/other/073. Set Matrix Zeroes.md",
+    "matrix/other/_Index_of_other.md",
+    "matrix/bfs/1162. As Far from Land as Possible.md",
+    "matrix/other",
+    "matrix/bfs/994. Rotting Oranges.md",
+    "matrix/bfs/909. Snakes and Ladders.md",
+    "matrix/bfs/864. Shortest Path to Get All Keys.md",
+    "matrix/bfs/_Index_of_bfs.md",
+    "matrix/dfs/827. Making A Large Island.md",
+    "matrix/bfs",
+    "matrix/dfs/200. Number of Islands.md",
+    "matrix/dfs/1254. Number of Closed Islands.md",
+    "matrix/dfs/935. Knight Dialer.md",
+    "matrix/dfs/695. Max Area of Island.md",
+    "matrix/dfs/_Index_of_dfs.md",
+    "matrix/dynamic_programming/1277. Count Square Submatrices with All Ones.md",
+    "matrix/dfs",
+    "matrix/dynamic_programming/935. Knight Dialer.md",
+    "matrix/dynamic_programming/221. Maximal Square.md",
+    "matrix/dynamic_programming/_Index_of_dynamic_programming.md",
+    "matrix/binary_search/304. Range Sum Query 2D - Immutable.md",
+    "matrix/dynamic_programming",
+    "matrix/binary_search/363. Max Sum of Rectangle No Larger Than K.md",
+    "matrix/binary_search/240. Search a 2D Matrix II.md",
+    "matrix/array/Untitled.md",
+    "matrix/binary_search/_Index_of_binary_search.md",
+    "matrix/binary_search",
+    "matrix/binary_search/1351. Count Negative Numbers in a Sorted Matrix.md",
+    "matrix/array",
+    "matrix/simple",
     "leet-edi-img/1. Two Sum.png",
-    "array/backtracking/040. Combination Sum II.md",
     "Spaces/Home",
     "Spaces",
-    "queuestack/901. Online Stock Span.md",
-    "queuestack/895. Maximum Frequency Stack.md",
-    "queuestack/341. Flatten Nested List Iterator.md",
-    "queuestack/225. Implement Stack using Queues.md",
-    "queuestack/155. Min Stack.md",
-    "queuestack/232. Implement Queue using Stacks.md",
-    "array/backtracking/254. Factor Combinations.md",
-    "array/backtracking/698. Partition to K Equal Sum Subsets.md",
     "Untitled.canvas",
-    "array/_Index_of_array.md",
-    "array/simple/057. Insert Interval.md",
-    "array/simple/163. Missing Ranges.md",
-    "array/simple/_Index_of_simple.md",
-    "array/specific_algos/068. Text Justification.md",
     "array/simple",
-    "array/specific_algos/075. Sort Colors.md",
-    "array/specific_algos/169. Majority Element.md",
-    "array/specific_algos",
-    "array/dfs",
-    "array/bfs",
-    "array/stack",
-    "array/queue",
-    "array/prefix_sum",
-    "array/binary_index_tree",
     "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
     "leet-problem-img/002. Add Two Numbers.png",
     "leet-problem-img/001. Two Sum.png",
