@@ -12,7 +12,7 @@
 	7. Matrix -> Done
 	8. Queue Stack -> Done
 	9. Math -> Ongoing
-	10. Puzzle -> Ongoing
+	10. Puzzle -> Done
 
 ---
 

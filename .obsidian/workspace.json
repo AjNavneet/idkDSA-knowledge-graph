@@ -30,9 +30,21 @@
               "type": "3d_graph_view",
               "state": {}
             }
+          },
+          {
+            "id": "861ba0658a202b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -176,8 +192,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "08324ad2d55401b6",
+  "active": "861ba0658a202b86",
   "lastOpenFiles": [
+    "puzzle/1025. Divisor Game.md",
     "readme.md",
     "_Index_of_idkDSA-knowledge-graph.md",
     "matrix/other/407. Trapping Rain Water II.md",
@@ -208,7 +225,6 @@
     "matrix/array/Untitled.md",
     "matrix/binary_search/_Index_of_binary_search.md",
     "matrix/binary_search",
-    "matrix/binary_search/1351. Count Negative Numbers in a Sorted Matrix.md",
     "matrix/array",
     "matrix/simple",
     "leet-edi-img/1. Two Sum.png",
