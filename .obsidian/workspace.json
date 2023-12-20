@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "array/_Index_of_array.md",
-                "mode": "source",
+                "file": "_Index_of_idkDSA-knowledge-graph.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5d5b4add6aaa6de8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "array/_Index_of_array.md",
+                "file": "_Index_of_idkDSA-knowledge-graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "array/_Index_of_array.md",
+                "file": "_Index_of_idkDSA-knowledge-graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "array/_Index_of_array.md"
+                "file": "_Index_of_idkDSA-knowledge-graph.md"
               }
             }
           }
@@ -150,10 +150,43 @@
   },
   "active": "88566deec69223b6",
   "lastOpenFiles": [
+    "array/backtracking/_Index_of_backtracking.md",
+    "array/backtracking/254. Factor Combinations.md",
+    "array/backtracking/698. Partition to K Equal Sum Subsets.md",
+    "array/backtracking/037. Sudoku Solver.md",
     "readme.md",
     "_Index_of_idkDSA-knowledge-graph.md",
-    "array/Untitled.md",
+    "Untitled.canvas",
     "array/_Index_of_array.md",
+    "array/simple/057. Insert Interval.md",
+    "array/simple/163. Missing Ranges.md",
+    "array/simple/_Index_of_simple.md",
+    "array/specific_algos/068. Text Justification.md",
+    "array/simple",
+    "array/specific_algos/075. Sort Colors.md",
+    "array/specific_algos/169. Majority Element.md",
+    "array/specific_algos/284. Peeking Iterator.md",
+    "array/specific_algos/053. Maximum Subarray.md",
+    "array/specific_algos/_Index_of_specific_algos.md",
+    "array/dfs/749. Contain Virus.md",
+    "array/specific_algos",
+    "array/Untitled 1.md",
+    "array/dfs/679. 24 Game.md",
+    "array/dfs/546. Remove Boxes.md",
+    "array/dfs/472. Concatenated Words.md",
+    "array/dfs/130. Surrounded Regions.md",
+    "array/dfs/079. Word Search.md",
+    "array/dfs/078. Subsets.md",
+    "array/dfs/_Index_of_dfs.md",
+    "array/bfs/675. Cut Off Trees for Golf Event.md",
+    "array/dfs",
+    "array/bfs",
+    "array/stack",
+    "array/queue",
+    "array/prefix_sum",
+    "array/binary_index_tree",
+    "array/sorting",
+    "array/dynamic_programming",
     "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
     "leet-problem-img/002. Add Two Numbers.png",
     "leet-problem-img/001. Two Sum.png",
@@ -163,38 +196,6 @@
     "leet-problem-img/996. Number of Squareful Arrays.png",
     "leet-problem-img/995. Minimum Number of K Consecutive Bit Flips.png",
     "leet-problem-img/994. Rotting Oranges.png",
-    "leet-problem-img/993. Cousins in Binary Tree.png",
-    "leet-problem-img",
-    "problem-screenshots",
-    "tree/_Index_of_tree.md",
-    "Index_of_idkDSA-knowledge-graph.md",
-    "idkDSA-knowledge-graph.md",
-    "array/Index_of_array.md",
-    "tree/Untitled.md",
-    "tree/tree.md",
-    "string/_Index_of_string.md",
-    "linkedlist/_Index_of_linkedlist.md",
-    "graph/_Index_of_graph.md",
-    "hash/_Index_of_hash.md",
-    "matrix/_Index_of_matrix.md",
-    "queuestack/_Index_of_queuestack.md",
-    "math/_Index_of_math.md",
-    "puzzle/_Index_of_puzzle.md",
-    "string/Untitled.md",
-    "queuestack/Untitled.md",
-    "puzzle/Untitled.md",
-    "matrix/Untitled.md",
-    "math/Untitled.md",
-    "linkedlist/Untitled.md",
-    "hash/Untitled.md",
-    "graph/Untitled.md",
-    "puzzle",
-    "math",
-    "queuestack",
-    "matrix",
-    "hash",
-    "graph",
-    "tree",
-    "linkedlist"
+    "leet-problem-img/993. Cousins in Binary Tree.png"
   ]
 }
