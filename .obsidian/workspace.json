@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
-                "mode": "preview",
+                "file": "readme.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "array/bfs/1654. Minimum Jumps to Reach Home.md"
+                "file": "readme.md"
               }
             }
           },
@@ -177,44 +177,44 @@
   },
   "active": "661f022575d45a83",
   "lastOpenFiles": [
-    "array/bfs-merged.md",
-    "array/bfs/1654. Minimum Jumps to Reach Home.md",
-    "array/bfs/778. Swim in Rising Water.md",
-    "array/bfs/675. Cut Off Trees for Golf Event.md",
-    "array/bfs/417. Pacific Atlantic Water Flow.md",
-    "array/bfs/_Index_of_bfs.md",
-    "array/dynamic_programming/416. Partition Equal Subset Sum.md",
-    "readme.md",
-    "puzzle/1025. Divisor Game.md",
     "_Index_of_idkDSA-knowledge-graph.md",
-    "matrix/other/407. Trapping Rain Water II.md",
-    "matrix/other/073. Set Matrix Zeroes.md",
-    "matrix/other/_Index_of_other.md",
-    "matrix/bfs/1162. As Far from Land as Possible.md",
-    "matrix/other",
-    "matrix/bfs/994. Rotting Oranges.md",
-    "matrix/bfs/909. Snakes and Ladders.md",
-    "matrix/bfs/864. Shortest Path to Get All Keys.md",
-    "matrix/bfs/_Index_of_bfs.md",
-    "matrix/dfs/827. Making A Large Island.md",
-    "matrix/bfs",
-    "matrix/dfs/200. Number of Islands.md",
-    "matrix/dfs/1254. Number of Closed Islands.md",
-    "matrix/dfs/935. Knight Dialer.md",
-    "matrix/dfs/695. Max Area of Island.md",
-    "matrix/dfs/_Index_of_dfs.md",
-    "matrix/dynamic_programming/1277. Count Square Submatrices with All Ones.md",
-    "matrix/dfs",
-    "matrix/dynamic_programming/935. Knight Dialer.md",
-    "matrix/dynamic_programming",
-    "matrix/binary_search",
-    "matrix/array",
-    "matrix/simple",
+    "math/other/1610. Maximum Number of Visible Points.md",
+    "math/other/202. Happy Number.md",
+    "math/other/295. Find Median from Data Stream.md",
+    "math/other/204. Count Primes.md",
+    "math/other/069. Sqrt(x).md",
+    "math/other/_Index_of_other.md",
+    "math/stack/227. Basic Calculator II.md",
+    "math/other",
+    "math/stack/224. Basic Calculator.md",
+    "math/stack/150. Evaluate Reverse Polish Notation.md",
+    "math/stack/_Index_of_stack.md",
+    "math/recursion/509. Fibonacci Number.md",
+    "math/stack",
+    "math/recursion/326. Power of Three.md",
+    "math/recursion/060. Permutation Sequence.md",
+    "math/recursion/050. Pow(x, n).md",
+    "math/recursion/_Index_of_recursion.md",
+    "math/bit_manipulation/371. Sum of Two Integers.md",
+    "math/recursion",
+    "math/bit_manipulation/231. Power of Two.md",
+    "math/bit_manipulation/190. Reverse Bits.md",
+    "math/bit_manipulation/029. Divide Two Integers.md",
+    "math/bit_manipulation/_Index_of_bit_manipulation.md",
+    "math/backtracking/077. Combinations.md",
+    "math/bit_manipulation",
+    "math/backtracking/_Index_of_backtracking.md",
+    "math/dynamic_programming/1493. Longest Subarray of 1's After Deleting One Element.md",
+    "math/backtracking",
+    "math/Untitled 1.md",
+    "math/dynamic_programming/887. Super Egg Drop.md",
+    "math/dynamic_programming",
+    "math/simple",
+    "graph/other",
+    "graph/algo",
+    "graph/bfs",
     "leet-edi-img/1. Two Sum.png",
-    "Spaces/Home",
-    "Spaces",
     "Untitled.canvas",
-    "array/simple",
     "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
     "leet-problem-img/002. Add Two Numbers.png",
     "leet-problem-img/001. Two Sum.png",
