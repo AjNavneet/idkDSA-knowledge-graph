@@ -1,7 +1,9 @@
 # Data Structures & Algorithms - Obsidian Notes
 
 ## Setup Instructions 🚀
-1. **Clone Repository and Open in Obsidian:**
+1. **Clone Repository**.
+2. **Open Repository folder in Obsidian app.** 
+3. **Open _Index_of_idkDSA-knowledge-graph.**
     - **Note:** The vault size is 7.5+ gigabytes.
 
 ## Linking Progress 🔗
