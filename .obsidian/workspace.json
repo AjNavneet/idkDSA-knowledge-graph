@@ -8,7 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "661f022575d45a83",
+            "id": "647f6d40723481aa",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7483ad0426a327da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc3f53d5fbf355a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "861ba0658a202b86",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,10 +184,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "661f022575d45a83",
+  "active": "fff42a9469bccfa8",
   "lastOpenFiles": [
-    "_Index_of_idkDSA-knowledge-graph.md",
+    "attachments/Screenshot 2023-12-26 at 8.35.23 AM.png",
     "readme.md",
+    "_Index_of_idkDSA-knowledge-graph.md",
     "binary_tree/other/654. Maximum Binary Tree.md",
     "binary_tree/other/208. Implement Trie (Prefix Tree).md",
     "binary_tree/other/_Index_of_other.md",
@@ -205,7 +215,6 @@
     "binary_tree/dfs/968. Binary Tree Cameras.md",
     "binary_tree/dfs/617. Merge Two Binary Trees.md",
     "binary_tree/dfs/572. Subtree of Another Tree.md",
-    "binary_tree/dfs/543. Diameter of Binary Tree.md",
     "binary_tree/dfs",
     "binary_tree/dynamic_programming",
     "binary_tree",
