@@ -4,7 +4,6 @@
 1. **Clone Repository**.
 2. **Open Repository folder in Obsidian app.** 
 3. **Open _Index_of_idkDSA-knowledge-graph.**
-    - **Note:** The vault size is 7.5+ gigabytes.
 
 ## Linking Progress 🔗
 1. **Array:** Done ✅
