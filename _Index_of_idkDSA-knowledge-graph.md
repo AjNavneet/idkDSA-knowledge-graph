@@ -3,7 +3,6 @@
 📄 [[LICENSE|LICENSE]]
 📄 [[readme|readme]]
 🗂️ ![[array/_Index_of_array|_Index_of_array]]
-🗂️ ![[attachments/_Index_of_attachments|_Index_of_attachments]]
 🗂️ ![[binary_search_tree/_Index_of_binary_search_tree|_Index_of_binary_search_tree]]
 🗂️ ![[binary_tree/_Index_of_binary_tree|_Index_of_binary_tree]]
 🗂️ ![[graph/_Index_of_graph|_Index_of_graph]]
