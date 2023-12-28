@@ -8,35 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc3f53d5fbf355a2",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a7f4c178542c994",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "838160aa875c4951",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Index_of_idkDSA-knowledge-graph.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +161,8 @@
   },
   "active": "838160aa875c4951",
   "lastOpenFiles": [
-    "readme.md",
     "_Index_of_idkDSA-knowledge-graph.md",
+    "readme.md",
     "string/other/394. Decode String.md",
     "string/other/179. Largest Number.md",
     "string/other/_Index_of_other.md",
