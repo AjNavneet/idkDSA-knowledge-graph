@@ -14,8 +14,21 @@
               "type": "3d_graph_view",
               "state": {}
             }
+          },
+          {
+            "id": "e6ce2f73ad00c73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "array/simple/057. Insert Interval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "array/simple/057. Insert Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "array/simple/057. Insert Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "array/simple/057. Insert Interval.md"
+              }
             }
           },
           {
@@ -159,54 +176,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "838160aa875c4951",
+  "active": "fff42a9469bccfa8",
   "lastOpenFiles": [
-    "_Index_of_idkDSA-knowledge-graph.md",
-    "readme.md",
-    "string/other/394. Decode String.md",
-    "string/other/179. Largest Number.md",
-    "string/other/_Index_of_other.md",
-    "string/trie/1065. Index Pairs of a String.md",
-    "string/other",
-    "string/trie/Untitled.md",
-    "string/trie/745. Prefix and Suffix Search.md",
-    "string/trie/642. Design Search Autocomplete System.md",
-    "string/trie/_Index_of_trie.md",
-    "string/dfs/721. Accounts Merge.md",
-    "string/trie",
-    "string/dfs/1593. Split a String Into the Max Number of Unique Substrings.md",
-    "string/dfs/784. Letter Case Permutation.md",
-    "string/dfs/131. Palindrome Partitioning.md",
-    "string/dfs/_Index_of_dfs.md",
-    "string/bfs/127. Word Ladder.md",
-    "string/dfs",
-    "string/bfs/126. Word Ladder II.md",
-    "string/bfs/_Index_of_bfs.md",
-    "string/stack/1249. Minimum Remove to Make Valid Parentheses.md",
-    "string/bfs",
-    "string/stack/1209. Remove All Adjacent Duplicates in String II.md",
-    "string/stack/071. Simplify Path.md",
-    "string/stack/020. Valid Parentheses.md",
-    "string/stack/358. Rearrange String k Distance Apart.md",
-    "string/stack/_Index_of_stack.md",
-    "string/math/067. Add Binary.md",
-    "string/stack",
-    "string/math/415. Add Strings.md",
-    "string/math/Untitled",
-    "string/math",
-    "string/hash",
-    "string/backtracking",
-    "string/greedy",
-    "attachments/Screenshot 2023-12-26 at 8.35.23 AM.png",
-    "leet-edi-img/1. Two Sum.png",
-    "Untitled.canvas",
-    "leet-problem-img/003. Longest Substring Without Repeating Characters.png",
-    "leet-problem-img/002. Add Two Numbers.png",
-    "leet-problem-img/001. Two Sum.png",
-    "leet-problem-img/999. Available Captures for Rook.png",
-    "leet-problem-img/998. Maximum Binary Tree II.png",
-    "leet-problem-img/997. Find the Town Judge.png",
-    "leet-problem-img/996. Number of Squareful Arrays.png",
-    "leet-problem-img/995. Minimum Number of K Consecutive Bit Flips.png"
+    "editorial-screenshots_official/1000-1999/1996. The Number of Weak Characters in the Game.png",
+    "editorial-screenshots_official/1000-1999/1971. Find if Path Exists in Graph.png",
+    "editorial-screenshots_official/1000-1999/1970. Last Day Where You Can Still Cross.png",
+    "editorial-screenshots_official/1000-1999/1964. Find the Longest Valid Obstacle Course at Each Position.png",
+    "editorial-screenshots_official/1000-1999/1962. Remove Stones to Minimize the Total.png",
+    "editorial-screenshots_official/1000-1999/1937. Maximum Number of Points with Cost.png",
+    "editorial-screenshots_official/1000-1999/1926. Nearest Exit from Entrance in Maze.png",
+    "editorial-screenshots_official/1000-1999/1908. Game of Nim.png",
+    "editorial-screenshots_official/1000-1999/1874. Minimize Product Sum of Two Arrays.png",
+    "editorial-screenshots_official/1000-1999/1870. Minimum Speed to Arrive on Time.png",
+    "editorial-screenshots_official/1000-1999/1857. Largest Color Value in a Directed Graph.png",
+    "editorial-screenshots_official/2000-2999",
+    "editorial-screenshots_official/1000-1999",
+    "editorial-screenshots_official/1-999",
+    "editorial-screenshots_official",
+    "editorial_code_official/1-999/992. Subarrays with K Different Integers/python-0.py",
+    "editorial_code_official/1-999/992. Subarrays with K Different Integers/java-0.java",
+    "editorial_code_official/1-999/991. Broken Calculator/python3-0.py",
+    "editorial_code_official/1-999/991. Broken Calculator/java-0.java",
+    "editorial_code_official/1-999/989. Add to Array-Form of Integer/python-0.py",
+    "editorial_code_official/1-999/989. Add to Array-Form of Integer/java-0.java",
+    "array/two_pointer/986. Interval List Intersections.md",
+    "array/two_pointer/977. Squares of a Sorted Array.md",
+    "array/two_pointer/283. Move Zeroes.md",
+    "array/two_pointer/251. Flatten 2D Vector.md",
+    "array/two_pointer/189. Rotate Array.md",
+    "array/two_pointer/031. Next Permutation.md",
+    "array/two_pointer/026. Remove Duplicates from Sorted Array.md",
+    "array/two_pointer/018. 4Sum.md",
+    "array/two_pointer/016. 3Sum Closest.md",
+    "array/two_pointer/015. 3Sum.md",
+    "array/two_pointer/011. Container With Most Water.md",
+    "array/backtracking/040. Combination Sum II.md",
+    "array/backtracking/037. Sudoku Solver.md",
+    "array/math/048. Rotate Image.md",
+    "array/hash_table/1010. Pairs of Songs With Total Durations Divisible by 60.md",
+    "array/hash_table/442. Find All Duplicates in an Array.md",
+    "array/hash_table/036. Valid Sudoku.md",
+    "array/hash_table/001. Two Sum.md",
+    "array/greedy/1673. Find the Most Competitive Subsequence.md",
+    "array/greedy/135. Candy.md",
+    "array/greedy/055. Jump Game.md",
+    "array/greedy/045. Jump Game II.md",
+    "array/dynamic_programming/213. House Robber II.md",
+    "array/dynamic_programming/198. House Robber.md",
+    "array/dynamic_programming/188. Best Time to Buy and Sell Stock IV.md",
+    "Untitled.canvas"
   ]
 }
